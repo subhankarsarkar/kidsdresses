@@ -1,0 +1,10 @@
+index.html (clips list)                 Files on disk
+┌──────────────────────────────────┐
+│ title:    "Party Gown"           │
+│ gender:   "Girls"      filters   │    thumbs/3.jpg
+│ category: "Party"      & search  │    videos/3.mp4
+│ age:      "5-7 years"  come from │
+│ color:    "Red"        here      │
+│ thumb: "thumbs/3.jpg" ───────────┼──► linked by number
+│ file:  "videos/3.mp4" ───────────┘
+└──────────────────────────────────┘
